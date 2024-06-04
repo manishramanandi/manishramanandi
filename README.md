@@ -12,7 +12,7 @@
 #  Tools, Technologies and kanguages i use 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=,linux,arch,c,cpp,go,js,nextjs,reactjs,nodejs,expressjs,tailwind,npm,docker,kubernetes,bash,git,vim,neovim," />
   </a>
 </p>
 
