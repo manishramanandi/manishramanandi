@@ -3,11 +3,12 @@
 #  🐚 श्रीमते रामानुजाय नमः 🪷
 </div>
 
-#  Sitaram, I'm Manish vaishnav, a computer science enthusiast !!!
+# ⛩️ Sitaram, I'm Manish vaishnav, a computer science enthusiast !!!
 
 
-- 🔭 I’m currently working on compilers
-- 🌱 I’m currently learning golang, backend ecosystem and linux ecosystem
+
+- ♨️ I’m currently working on compilers
+- ![golang](https://github.com/manishramanandi/manishramanandi/assets/133475996/5f8eb760-b672-44d8-b4d9-61a2e6531957) I’m currently learning golang, backend ecosystem and linux ecosystem
 
 - 💬 Ask me about linux  ![channels4_profile](https://github.com/manishramanandi/manishramanandi/assets/133475996/a4db5ed3-670c-4fce-8b54-26956bdcc3d9)
 
