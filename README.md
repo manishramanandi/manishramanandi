@@ -1,21 +1,15 @@
 ![vaishnav](https://github.com/manishramanandi/manishramanandi/assets/133475996/7a0f5040-6901-4d3d-a2e6-c5e93313a729)
     <div align="center">
-# श्रीमते रामानुजाय नमः
-    </div>
+#  🐚 श्रीमते रामानुजाय नमः 🪷
+</div>
 
-Welcome to my GitHub profile! Here are some things about me:
+#  Sitaram, I'm Manish vaishnav, a computer science enthusiast !!!
 
 
-## About Me
+- 🔭 I’m currently working on compilers
+- 🌱 I’m currently learning golang, backend ecosystem and linux ecosystem
 
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning...
-- 👯 I’m looking to collaborate on...
-- 🤔 I’m looking for help with...
-- 💬 Ask me about...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about linux  ![channels4_profile](https://github.com/manishramanandi/manishramanandi/assets/133475996/a4db5ed3-670c-4fce-8b54-26956bdcc3d9)
 
 ## My GitHub Stats
 
