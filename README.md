@@ -10,9 +10,9 @@
 - 💬 Ask me about linux                               ![channels4_profile](https://github.com/manishramanandi/manishramanandi/assets/133475996/a4db5ed3-670c-4fce-8b54-26956bdcc3d9)
 
 #  Tools, Technologies and kanguages i use 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,linux,arch,c,cpp,go,js,nextjs,reactjs,nodejs,expressjs,tailwind,npm,docker,kubernetes,bash,git,vim,neovim," />
+    <img src="https://skillicons.dev/icons?i=,linux,arch,c,cpp,go,js,nextjs,react,nodejs,expressjs,tailwind,npm,docker,kubernetes,bash,git,vim,neovim," />
   </a>
 </p>
 
