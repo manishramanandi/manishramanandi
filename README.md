@@ -1,4 +1,4 @@
-https://i.pinimg.com/564x/5d/e9/a3/5de9a3a3fbab1977374f7adef150fa75.jpg
+![vaishnav](https://github.com/manishramanandi/manishramanandi/assets/133475996/7a0f5040-6901-4d3d-a2e6-c5e93313a729)
     <div align="center">
 #  🐚 श्रीमते रामानुजाय नमः 🪷
 </div>
