@@ -20,5 +20,4 @@
 ![wallpaperflare com_wallpaper(1)](https://github.com/manishramanandi/manishramanandi/assets/133475996/061c688d-6d72-4181-afbf-c4dc54d9aa30)
 
 
-## My GitHub Stats
 
