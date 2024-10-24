@@ -12,7 +12,7 @@
 #  Tools, Technologies and Languages i use 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,c,go,js,ts,zig,lua,sveltejs,deno,tailwind,npm,docker,kubernetes,bash,git,vim,neovim," />
+    <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,c,go,js,ts,zig,lua,svelte,deno,bun,npm,docker,kubernetes,bash,git,vim,neovim," />
   </a>
 </p>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishramanandi&show_icons=true&theme=dark&title_color=dc78dc&text_color=ffffff&locale=en&layout=compact" alt="manishramanandi" /></p>
