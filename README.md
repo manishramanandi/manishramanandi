@@ -15,8 +15,7 @@
     <img src="https://skillicons.dev/icons?i=linux,arch,c,go,js,nextjs,nodejs,tailwind,npm,docker,kubernetes,bash,git,vim,neovim," />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=explorer-o7&show_icons=true&theme=dark&title_color=dc78dc&text_color=ffffff&locale=en&layout=compact" alt="explorer-o7" /></p>
-
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishramanandi&show_icons=true&theme=dark&title_color=dc78dc&text_color=ffffff&locale=en&layout=compact" alt="manishramanandi" /></p>
 
 #  🍥 I love Free Open Source Software and linux, I use arch btw.
 ![wallpaperflare com_wallpaper(1)](https://github.com/manishramanandi/manishramanandi/assets/133475996/061c688d-6d72-4181-afbf-c4dc54d9aa30)
