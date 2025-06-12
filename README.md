@@ -1,4 +1,4 @@
-### Manish 
+### Manish𒉭 (φ: Philosophy (μ: Mathematics (λ: Logic (x: Code)))
 
 Just a guy looking to make my developer workflow more awesome, build performant projects, understand linux, and ultimately craft really awesome software.
 
