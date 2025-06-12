@@ -8,6 +8,7 @@ Fun Facts
 - Terminal tools i love, tmux, zsh, bat, Duck, fzf, tldr, wikiman and man pages
 - WM i use i3(X11) and hyprland(wayland)
 - I use arch btw
-- i use Neo(vim) btw
-- I have a telegram channel [vimvimvimvimvimvimvimvimvim](https://t.me/vimvimvimvimvimvimvimvimvim)
+- I use Neo(vim) btw
 - My discord [Discord](https://discordapp.com/users/berserkarc)
+- I have a telegram channel [vimvimvimvimvimvimvimvimvim](https://t.me/vimvimvimvimvimvimvimvimvim)
+
