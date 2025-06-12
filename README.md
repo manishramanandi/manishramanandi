@@ -1,20 +1,13 @@
-![vaishnav](https://github.com/manishramanandi/manishramanandi/assets/133475996/7a0f5040-6901-4d3d-a2e6-c5e93313a729)
-    <div align="center">
-#  🐚 श्रीमते रामानुजाय नमः 🪷
-</div>
+### Manish 
 
-# ⛩️I'm Manish vaishnav, a computer science enthusiast !!!
+Just a guy looking to make my developer workflow more awesome, build performant projects, understand linux, and ultimately craft really awesome software.
 
-#  Tools, Technologies and Languages i use 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,c,go,js,lua,svelte,bun,docker,kubernetes,bash,git,vim,neovim," />
-  </a>
-</p>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishramanandi&show_icons=true&theme=dark&title_color=dc78dc&text_color=ffffff&locale=en&layout=compact" alt="manishramanandi" /></p>
+Fun Facts
 
-#  🍥 I love Free Open Source Software and linux, I use arch btw.
-![wallpaperflare com_wallpaper(1)](https://github.com/manishramanandi/manishramanandi/assets/133475996/061c688d-6d72-4181-afbf-c4dc54d9aa30)
-
-
-
+- I am a gopher, love to code in c, know javascript and typescript, sometimes i code in lua btw 
+- Terminal tools i love, tmux, zsh, bat, Duck, fzf, tldr, wikiman and man pages
+- WM i use i3(x11) and hyprland(waybar)
+- I have a telegram channel [vimvimvimvimvimvimvimvimvim](https://t.me/vimvimvimvimvimvimvimvimvim)
+- I user arch btw
+- i user Neo(vim) btw
+- My discord [Discord](https://discordapp.com/users/berserkarc)
